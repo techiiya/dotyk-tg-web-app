@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/dotyk-tg-web-app/static/css/main.e6c13ad2.css",
-    "main.js": "/dotyk-tg-web-app/static/js/main.e00e76d7.js",
+    "main.js": "/dotyk-tg-web-app/static/js/main.d8ff6803.js",
     "static/media/red.png": "/dotyk-tg-web-app/static/media/red.2245bb64217a7db02814.png",
     "index.html": "/dotyk-tg-web-app/index.html",
     "main.e6c13ad2.css.map": "/dotyk-tg-web-app/static/css/main.e6c13ad2.css.map",
-    "main.e00e76d7.js.map": "/dotyk-tg-web-app/static/js/main.e00e76d7.js.map"
+    "main.d8ff6803.js.map": "/dotyk-tg-web-app/static/js/main.d8ff6803.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.e00e76d7.js"
+    "static/js/main.d8ff6803.js"
   ]
 }
