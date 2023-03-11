@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/dotyk-tg-web-app/static/js/main.d8afa4fb.js",
+    "main.js": "/dotyk-tg-web-app/static/js/main.b78f325c.js",
     "index.html": "/dotyk-tg-web-app/index.html",
-    "main.d8afa4fb.js.map": "/dotyk-tg-web-app/static/js/main.d8afa4fb.js.map"
+    "main.b78f325c.js.map": "/dotyk-tg-web-app/static/js/main.b78f325c.js.map"
   },
   "entrypoints": [
-    "static/js/main.d8afa4fb.js"
+    "static/js/main.b78f325c.js"
   ]
 }
